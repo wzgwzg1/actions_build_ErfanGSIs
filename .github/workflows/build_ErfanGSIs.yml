@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V11.0.11.0.PCNCNXM/miui_OLIVE_V11.0.11.0.PCNCNXM_34af5a82a4_9.0.zip
-  ROM_NAME: miui v11
+  ROM_URL: http://api.bbs.miui.com/app/index/downloadApp?from=miuidownload
+  ROM_NAME: miui
   TZ: Asia/Shanghai
 
 jobs:

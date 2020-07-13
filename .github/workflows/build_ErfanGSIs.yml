@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://api.bbs.miui.com/app/index/downloadApp?from=miuidownload
+  ROM_URL: thttp://bigota.d.miui.com/V11.0.3.0.QDGCNXM/miui_MIMIX2S_V11.0.3.0.QDGCNXM_61449c34fd_10.0.zip
   ROM_NAME: miui
   TZ: Asia/Shanghai
 
